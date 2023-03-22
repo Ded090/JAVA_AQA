@@ -1,0 +1,9 @@
+<person>
+    <name>Ali</name>
+    <age>18</age>
+    <address>
+        <city>San Francisco</city>
+        <state>CA</state>
+        <zip>78000</zip>
+    </address>
+</person>
