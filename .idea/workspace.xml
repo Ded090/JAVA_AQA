@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7deda8c-04b6-4e7b-9f6f-b6112a1936a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task6/Entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task6/Entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example_test/task8/DataProviderTask2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example_test/task8/ParametrizedTask2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example_test/task8/Task2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
